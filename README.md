@@ -1,0 +1,1 @@
+# digistore-vendor-mastery
